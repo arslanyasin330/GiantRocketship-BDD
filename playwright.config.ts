@@ -41,7 +41,10 @@ export default defineConfig({
     projects: [
         {
             name: 'GiantRocketship',
-            use: { ...devices['Desktop Chrome'] },
+            use: { 
+                ...devices['Desktop Chrome'],
+                headless: true,
+            },
         },
     ],
 });
