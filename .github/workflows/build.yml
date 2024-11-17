@@ -23,7 +23,7 @@ jobs:
           npx playwright install
 
       - name: Run tests on Playwright
-        run: npm run test
+        run: npm run allure
 
       - name: Get Allure history
         uses: actions/checkout@v3
