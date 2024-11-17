@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: develop
+    environment: automation
     env:
       BASE_URL: ${{ secrets.BASE_URL }}
 
