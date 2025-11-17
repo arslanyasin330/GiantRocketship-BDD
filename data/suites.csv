@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","6093","Display errors when only the name is provided","GiantRocketship","Fri Aug 15 13:15:36 UTC 2025","passed","Fri Aug 15 13:15:42 UTC 2025","Contact Us","src/features/contactUs.feature.spec.js","",""
-"","6851","Display error when name and email are provided without a comment","GiantRocketship","Fri Aug 15 13:15:42 UTC 2025","passed","Fri Aug 15 13:15:49 UTC 2025","Contact Us","src/features/contactUs.feature.spec.js","",""
-"","5618","Display errors when the form is submitted empty","GiantRocketship","Fri Aug 15 13:15:36 UTC 2025","passed","Fri Aug 15 13:15:42 UTC 2025","Contact Us","src/features/contactUs.feature.spec.js","",""
+"","7449","Display errors when only the name is provided","GiantRocketship","Mon Nov 17 17:35:37 UTC 2025","passed","Mon Nov 17 17:35:44 UTC 2025","Contact Us","src/features/contactUs.feature.spec.js","",""
+"","6843","Display errors when the form is submitted empty","GiantRocketship","Mon Nov 17 17:35:37 UTC 2025","passed","Mon Nov 17 17:35:43 UTC 2025","Contact Us","src/features/contactUs.feature.spec.js","",""
+"","13799","Display error when name and email are provided without a comment","GiantRocketship","Mon Nov 17 17:36:13 UTC 2025","failed","Mon Nov 17 17:36:27 UTC 2025","Contact Us","src/features/contactUs.feature.spec.js","",""
